@@ -196,6 +196,9 @@ body {
 }
 
 @media (max-width: 767px) {
+  .content {
+    padding: 0 0 20px;
+  }
   .error-page {
     width: 100%;
   }
