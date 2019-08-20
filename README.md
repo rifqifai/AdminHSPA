@@ -28,4 +28,4 @@ With this template is expected to facilitate the build and can also be implement
     404 Error
 
 # Download Free Template Code:
-HTML version | Version of Smarty Template Engine & MySQL >> http://www.rifqifai.com/
+HTML version | Version of Smarty Template Engine & MySQL >> http://www.rifqifai.com/adminhspa-admin-panel-bootstrap-template/
